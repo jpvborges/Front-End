@@ -1,9 +1,19 @@
-h1{
+body {
+    background-color: #F2FFFc;
+    font-family: "Crimson Text", serif;
+    font-size: 20px;
+}
+main h1{
     font-size: 80px;
-    background-color: rgb(140, 30, 60);
-    color: rgb(149, 225, 255);
+    background-color: rgb(138, 24, 53);
+    color: rgb(255, 255, 255);
     text-align: center;
+    font-family: "Open Sans Condensed", sans-serif;
 }
 h2{
     font-size: 40px;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+p{
+    text-align: justify;
 }
